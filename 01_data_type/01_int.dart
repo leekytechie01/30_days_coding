@@ -17,7 +17,7 @@
 
 //  Number 
 
-// declartion of int
+// declaration of int
 
 // int are just 1 to infinit
 
@@ -26,12 +26,12 @@
 // int
   int age = 10;
 
-  const int score = 50;
+  const score = 50;
 
-  int price = 100;
+  var price = 100;
 
 
-  final total =  (age + score)/price;
+  final total = (age + score)/price;
 
   print(total);
 

@@ -8,13 +8,11 @@ void main(){
 
   final area = length * width;
 
-  print(area);
-
   final ceilArea = area.ceil();
 
   final floorArea = area.floor();
 
-  final roundAreaTo2 = area.toStringAsFixed(0);
+  final roundAreaTo2 = area.toStringAsFixed(2);
 
   print(ceilArea);
 
