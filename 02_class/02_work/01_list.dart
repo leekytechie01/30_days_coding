@@ -8,6 +8,11 @@ void main(List<String> argument) {
   final myList2 = [1,2,3];
   
   <int>[1,2,3];
+
+  Map<string, dynamic> myapp = {
+    'name': 'kolawole',
+    'age': '30',
+  }
    
    print(mylist);
 
