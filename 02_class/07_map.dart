@@ -21,7 +21,10 @@ void main(List<String> argument){
   final name = mymap['name'];
 
   Set<int> mySet = {1,2,3,4};
-  
+
   print(mySet.length);
+  print(mylist2);
+  print(name);
+  print(int);
 
 }
