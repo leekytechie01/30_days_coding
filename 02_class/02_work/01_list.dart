@@ -1,7 +1,5 @@
-// list
+//  List
 
-
-import 'dart:_metadata';
 
 void main(List<String> argument) {
   List<int> mylist = [1,2,3,4,];
@@ -12,13 +10,12 @@ void main(List<String> argument) {
   
   <int>[1,2,3];
 
-  Map<string, dynamic> myapp = {
+  Map<String, dynamic> myapp = {
     'name': 'kolawole',
     'age': '30',
-  }
+  };
    
    print(mylist);
-   print(DomName(name));
 
 
 }
