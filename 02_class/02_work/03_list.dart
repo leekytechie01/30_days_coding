@@ -13,11 +13,6 @@ void main(){
 
    Iterable<int> evenNumbers = numbers.where((num) => (num % 2 ==0));
 
-   //Find all german friends
-   List<String> myFriend = [
-   Friend(name: 'David', originCountry 'England'),
-   ]
-
   print(visibleNames);
   print(numbers);
   print(evenNumbers);

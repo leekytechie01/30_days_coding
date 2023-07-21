@@ -1,9 +1,12 @@
 void main() {
-  int Variable = 4;
-  int interger = 2;
-  int hex = 0XD3452;
-  int sum = interger;
-  print(Variable);
-  print(hex);
-  print(sum);
+  var num1 = 8;
+  var num2 = 5;
+
+  print(num1 + num2);
+  print(num1 - num2);
+  print(num1 * num2);
+  print(num1 / num2);
+  print(- num1);
+  print(num1 ~/ num2);
+  print(num1 % num2);
 }
