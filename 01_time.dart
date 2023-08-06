@@ -8,7 +8,15 @@ assert(one == 1);
 var onepointone = double.parse("1.1");
 assert(onepointone == 1.1);
 
+//int to string
+String  oneAsString =1.toString();
+assert(oneAsString =='1');
+
+//double to string
+String piAsString = 3.142.toString();
+assert(piAsString =='3.142');
 print(one);
 print(onepointone);
+print(piAsString);
 
 }
