@@ -13,7 +13,7 @@ String  oneAsString =1.toString();
 assert(oneAsString =='1');
 
 //double to string
-String piAsString = 3.142.toString();
+String piAsString = 3.142.toStringAsFixed(2);
 assert(piAsString =='3.142');
 print(one);
 print(onepointone);
